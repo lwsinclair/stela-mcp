@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sachin-bhat-stela-mcp-badge.png)](https://mseep.ai/app/sachin-bhat-stela-mcp)
+
 # STeLA MCP
 
 [![smithery badge](https://smithery.ai/badge/@Sachin-Bhat/stela-mcp)](https://smithery.ai/server/@Sachin-Bhat/stela-mcp)
